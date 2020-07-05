@@ -1,0 +1,22 @@
+{
+  "name": "alkmaar-bot",
+  "version": "1.0.0",
+  "description": "Bot voor de server Alkmaar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "alkmaar",
+    "gratis"
+  ],
+  "author": "Daniël",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "filter": "^0.1.1",
+    "fs": "0.0.1-security",
+    "ms": "^2.1.2"
+  }
+}

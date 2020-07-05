@@ -8,7 +8,7 @@ module.exports.run = async (client, message, args) => {
         .setColor("#eb4034")
         //.setThumbnail("https://cdn.discordapp.com/attachments/726380441266815038/727930984997060608/regels.jpg")
         .setImage("https://media.discordapp.net/attachments/727563359276236950/728606802152914984/image0.png?width=400&height=300")
-        .setFooter("Bot maker: @Daniël#2939 - Owner Alkmaar: christian#2266, Joey.rmu#9947 en kansloss0100#3437")//, "https://cdn.discordapp.com/attachments/726380441266815038/727930984997060608/regels.jpg")
+        .setFooter("Bot maker: @Daniël#2939 - Owners Alkmaar: @christian#2266, @Joey.rmu#9947 en @kansloss0100#3437")//, "https://cdn.discordapp.com/attachments/726380441266815038/727930984997060608/regels.jpg")
         .setTimestamp();
 
     return message.channel.send(botEmbed);
